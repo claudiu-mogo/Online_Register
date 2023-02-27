@@ -1,1 +1,0 @@
-System.out.println("Best student: " + courseArrayList.get(0).getBestStudent().getName());
